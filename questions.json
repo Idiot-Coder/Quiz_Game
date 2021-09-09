@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Ctrl, Shift and Alt are called .......... keys.",
+    "choice1": " modifier",
+    "choice2": "function",
+    "choice3": "alphanumeric",
+    "choice4": "adjustment",
+    "answer": 1
+  },
+  {
+    "question": "MS-Word is an example of _____",
+    "choice1": "An operating system",
+    "choice2": "A processing device",
+    "choice3": "Application software",
+    "choice4": "An input device",
+    "answer": 3
+  },
+  {
+    "question": "A computer cannot boot if it does not have the _____ ",
+    "choice1": "Compiler",
+    "choice2": "Loader",
+    "choice3": "Operating system",
+    "choice4": "Assembler",
+    "answer": 3
+  },
+  {
+    "question": "Junk e-mail is also called ______ ",
+    "choice1": "Spam",
+    "choice2": "Spoof",
+    "choice3": "Sniffer script",
+    "choice4": "Spool",
+    "answer": 1
+  },
+  {
+    "question": "The first computer was programmed using ....... ",
+    "choice1": "Assembly language",
+    "choice2": "Machine language",
+    "choice3": "Spaghetti code",
+    "choice4": "Source code",
+    "answer": 2
+  },
+  {
+    "question": "The computer's processor consists of the following parts ",
+    "choice1": "CPU and Main Memory",
+    "choice2": " Hard Disk and Floppy Drive",
+    "choice3": "Control Unit and ALU",
+    "choice4": "Operating System and Application",
+    "answer": 3
+  },
+  {
+    "question": "A _______ is a software program used to view Web pages. ",
+    "choice1": "site",
+    "choice2": " host",
+    "choice3": "link",
+    "choice4": "browser",
+    "answer": 4
+  },
+  {
+    "question": "Where is RAM located? ",
+    "choice1": "Mother Board",
+    "choice2": "Expansion Board",
+    "choice3": "External Drive",
+    "choice4": "None",
+    "answer": 1
+  },
+  {
+    "question": "The First Mechanical Computer Designed by Charles Babbage was called? ",
+    "choice1": "Super Computer",
+    "choice2": "Abacus",
+    "choice3": "Calculator",
+    "choice4": "Analytical Engine",
+    "answer": 4
+  },
+  {
+    "question": "C, BASIC, COBOL, and Java are examples of ............language ",
+    "choice1": "low-level",
+    "choice2": "programming",
+    "choice3": "computer",
+    "choice4": "high-level",
+    "answer": 4
+  }
+]
